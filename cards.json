@@ -3,42 +3,63 @@
         "id": 1,
         "type": 0,
         "lat": -34.567476,
-        "lon": -58.457421
+        "lon": -58.457421,
+	    "radius": 1,
+        "creationTime": 1,
+        "expirationTime": 1
     },
     {
         "id": 2,
         "type": 0,
         "lat": -34.567336,
-        "lon": -58.456283
+        "lon": -58.456283,
+        "radius": 2,
+        "creationTime": 1,
+        "expirationTime": 1
     },
     {
         "id": 3,
         "type": 0,
         "lat": -34.566126,
-        "lon": -58.457957
+        "lon": -58.457957,
+        "radius": 3,
+        "creationTime": 1,
+        "expirationTime": 1
     },
     {
         "id": 4,
         "type": 1,
         "lat": -34.577821,
-        "lon": -58.429378
+        "lon": -58.429378,
+        "radius": 4,
+        "creationTime": 1,
+        "expirationTime": 1
     },
     {
         "id": 5,
         "type": 1,
         "lat": -34.577486,
-        "lon": -58.431106
+        "lon": -58.431106,
+        "radius": 5,
+        "creationTime": 1,
+        "expirationTime": 1
     },
 	{
         "id": 6,
         "type": 1,
         "lat": -34.5776138,
-        "lon": -58.443986
+        "lon": -58.443986,
+        "radius": 6,
+        "creationTime": 1,
+        "expirationTime": 1
     },
 	{
         "id": 7,
         "type": 1,
         "lat": -34.566573,
-        "lon": -58.445370
+        "lon": -58.445370,
+        "radius": 7,
+        "creationTime": 1,
+        "expirationTime": 1
     }
 ]
